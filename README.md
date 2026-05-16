@@ -61,6 +61,26 @@ and user authentication. Live demo available on Vercel.
 
 ---
 
+### 🏢 [Ideapark Lempaala](https://lempaala.ideapark.fi/)
+
+A production e-commerce platform built while working at Newelo Oy. Architected AWS infrastructure
+(EC2, RDS, S3), automated CI/CD pipelines, and developed React and Angular frontend features
+for a seamless shopping experience.
+
+**Stack:** `React` `Angular` `AWS EC2` `RDS` `S3` `CI/CD`
+
+---
+
+### 🏡 [ClearNest](https://github.com/spavythra/ClearNest)
+
+A family household management web app with a Kanban task board, habit streak tracking,
+shared shopping lists, and inventory management with expiry alerts.
+Built with real-time collaboration and role-based access for households.
+
+**Stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `Vercel`
+
+---
+
 ### 🎥 Video-Based Seizure Detection
 
 A healthcare application that uses computer vision to detect seizure patterns from video input.
