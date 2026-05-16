@@ -6,7 +6,7 @@ I build complete working software from data ingestion to cloud-deployed UIs.
 I have years of professional experience across software development and QA,
 with an MSc in Cloud-based Software Engineering from Vaasa University of Applied Sciences (2025).
 
-Currently open to **Full-Stack Developer** and **Software Developer** roles in Finland.
+Currently open to **Full-Stack Developer** and **Software Developer** roles, Onsite and Hybrid.
 
 ---
 
@@ -97,15 +97,6 @@ Built at Newelo Oy. Designed and deployed a cost-effective, secure serverless ar
 on AWS using the Serverless Framework as an Infrastructure as Code (IaC) template for reusability on different application developement.
 
 **Stack:** `AWS Lambda` `DynamoDB` `API Gateway` `Serverless Framework` `VPC` `IaC` `Cognito` `IAM`
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=spavythra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="Pavithra's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spavythra&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top Languages" height="165" />
-</p>
 
 ---
 
