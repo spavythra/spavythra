@@ -2,9 +2,9 @@
 
 **Full-Stack Developer | Cloud and DevOps | Based in Finland 🇫🇮**
 
-I build complete, working software from hardware data ingestion to cloud-deployed UIs.
+I build complete working software from data ingestion to cloud-deployed UIs.
 I have years of professional experience across software development and QA,
-with an MSc in Cloud-based Software Engineering from VAMK (2025).
+with an MSc in Cloud-based Software Engineering from Vaasa University of Applied Sciences (2025).
 
 Currently open to **Full-Stack Developer** and **Software Developer** roles in Finland.
 
@@ -55,7 +55,7 @@ and displays battery health metrics in a React UI with threshold-based alerting.
 ### 🏠 [FirstNest](https://github.com/spavythra/FirstNest)
 
 A full-stack real estate platform with property listings, search and filter functionality,
-and user authentication. Live demo available on Vercel.
+and user authentication for first time home buyers. Live demo available on Vercel.
 
 **Stack:** `React` `Node.js` `PostgreSQL` `Vercel`
 
@@ -75,7 +75,7 @@ for a seamless shopping experience.
 
 A family household management web app with a Kanban task board, habit streak tracking,
 shared shopping lists, and inventory management with expiry alerts.
-Built with real-time collaboration and role-based access for households.
+Built with real-time collaboration and role-based access for households based on my personal experiences.
 
 **Stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `Vercel`
 
@@ -83,20 +83,19 @@ Built with real-time collaboration and role-based access for households.
 
 ### 🎥 Video-Based Seizure Detection
 
-Built during my role at Neuro Event Labs. A healthcare application that uses computer vision
+Worked on it during my role at Neuro Event Labs. A healthcare application that uses computer vision
 to detect seizure patterns from video input, supporting clinical monitoring and analysis.
 
-**Stack:** `Python` `Computer Vision` `Healthcare`
+**Stack:** `Angular`  `Typescript` `AWS` `Playwright`
 
 ---
 
 ### ☁️ Serverless Cloud Infrastructure
 
 Built at Newelo Oy. Designed and deployed a cost-effective, secure serverless architecture
-on AWS using the Serverless Framework and Infrastructure as Code (IaC).
-Resources include Lambda, DynamoDB, and API Gateway, provisioned and managed via Terraform.
+on AWS using the Serverless Framework as an Infrastructure as Code (IaC) template for reusability on different application developement.
 
-**Stack:** `AWS Lambda` `DynamoDB` `API Gateway` `Serverless Framework` `Terraform` `IaC`
+**Stack:** `AWS Lambda` `DynamoDB` `API Gateway` `Serverless Framework` `VPC` `IaC` `Cognito` `IAM`
 
 ---
 
