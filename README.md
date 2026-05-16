@@ -3,8 +3,8 @@
 **Full-Stack Developer | Cloud and DevOps | Based in Finland 🇫🇮**
 
 I build complete, working software from hardware data ingestion to cloud-deployed UIs.
-I have 8 years of professional experience across software development and QA,
-with an MSc in Cloud-based Software Engineering from TAMK (2025).
+I have years of professional experience across software development and QA,
+with an MSc in Cloud-based Software Engineering from VAMK (2025).
 
 Currently open to **Full-Stack Developer** and **Software Developer** roles in Finland.
 
