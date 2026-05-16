@@ -7,6 +7,7 @@ I have years of professional experience across software development and QA,
 with an MSc in Cloud-based Software Engineering from Vaasa University of Applied Sciences (2025).
 
 Currently open to **Full-Stack Developer** and **Software Developer** roles, Onsite and Hybrid.
+Finnish work permit holder. No sponsorship required.
 
 ---
 
