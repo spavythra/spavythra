@@ -83,8 +83,8 @@ Built with real-time collaboration and role-based access for households.
 
 ### 🎥 Video-Based Seizure Detection
 
-A healthcare application that uses computer vision to detect seizure patterns from video input.
-Built as part of MSc research at TAMK.
+Built during my role at Neuro Event Labs. A healthcare application that uses computer vision
+to detect seizure patterns from video input, supporting clinical monitoring and analysis.
 
 **Stack:** `Python` `Computer Vision` `Healthcare`
 
@@ -92,10 +92,11 @@ Built as part of MSc research at TAMK.
 
 ### ☁️ Serverless Cloud Infrastructure
 
-MSc thesis project. Designed and deployed a serverless architecture on AWS using
-Lambda, DynamoDB, and API Gateway, with infrastructure provisioned via Terraform.
+Built at Newelo Oy. Designed and deployed a cost-effective, secure serverless architecture
+on AWS using the Serverless Framework and Infrastructure as Code (IaC).
+Resources include Lambda, DynamoDB, and API Gateway, provisioned and managed via Terraform.
 
-**Stack:** `AWS Lambda` `DynamoDB` `API Gateway` `Terraform`
+**Stack:** `AWS Lambda` `DynamoDB` `API Gateway` `Serverless Framework` `Terraform` `IaC`
 
 ---
 
