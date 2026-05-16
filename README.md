@@ -25,6 +25,7 @@ Currently open to **Full-Stack Developer** and **Software Developer** roles in F
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Cloud and DevOps**
 
@@ -101,8 +102,10 @@ on AWS using the Serverless Framework as an Infrastructure as Code (IaC) templat
 
 ## 📈 GitHub Stats
 
-![Pavithra's GitHub stats](https://github-readme-stats.vercel.app/api?username=spavythra&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spavythra&layout=compact&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=spavythra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="Pavithra's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spavythra&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top Languages" height="165" />
+</p>
 
 ---
 
