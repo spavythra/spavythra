@@ -37,6 +37,7 @@ Finnish work permit holder. No sponsorship required.
 
 **Testing**
 
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robotframework&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
@@ -56,10 +57,12 @@ and displays battery health metrics in a React UI with threshold-based alerting.
 
 ### 🏠 [FirstNest](https://github.com/spavythra/FirstNest)
 
-A full-stack real estate platform with property listings, search and filter functionality,
-and user authentication for first time home buyers. Live demo available on Vercel.
+Nordic-style property platform for first-time home buyers in Finland. Vanilla JavaScript SPA
+with property search, area filtering, mortgage calculator, a 12-step buying guide, and an
+OpenAI-powered AI chat assistant. Config-driven via `site.config.js`; acceptance-tested with
+Robot Framework (navigation, search, calculator suites). Auth via Supabase, deployed on Vercel.
 
-**Stack:** `React` `Node.js` `PostgreSQL` `Vercel`
+**Stack:** `Vanilla JS` `Supabase` `OpenAI API` `Robot Framework` `Vercel`
 
 ---
 
@@ -75,11 +78,12 @@ for a seamless shopping experience.
 
 ### 🏡 [ClearNest](https://github.com/spavythra/ClearNest)
 
-A family household management web app with a Kanban task board, habit streak tracking,
-shared shopping lists, and inventory management with expiry alerts.
-Built with real-time collaboration and role-based access for households based on my personal experiences.
+Family household management app — Kanban task board, habit streak tracking, shared shopping
+list, meal planner, and inventory management with expiry alerts. Dual test layer: Jest unit
+tests + Robot Framework E2E acceptance tests covering auth, Kanban, and shopping flows.
+Real-time sync via Supabase, Google OAuth, deployed on Vercel.
 
-**Stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `Vercel`
+**Stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `Jest` `Robot Framework` `Vercel`
 
 ---
 
