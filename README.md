@@ -92,6 +92,17 @@ to detect seizure patterns from video input, supporting clinical monitoring and 
 
 ---
 
+### 🌲 [DheeInvites — Event Invite Template](https://github.com/spavythra/DheeInvites)
+
+A zero-dependency, config-driven digital invite shipped as a single HTML file.
+Finnish midsummer forest theme with inline SVG artwork, CSS animation system,
+Finnish ↔ English language toggle, runtime config injection via `event.config.js`,
+and a Playwright visual regression suite. Live on Vercel.
+
+**Stack:** `HTML/CSS` `Vanilla JS` `SVG` `Playwright` `Vercel`
+
+---
+
 ### ☁️ Serverless Cloud Infrastructure
 
 Built at Newelo Oy. Designed and deployed a cost-effective, secure serverless architecture
