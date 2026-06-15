@@ -112,10 +112,9 @@ and a Playwright visual regression suite. Live on Vercel.
 Web-based HMI for monitoring and managing connected industrial devices. Six-panel SPA —
 Config, Diagnostics, Trends, Alarms, Module Overview, and RAG Chat — built with a custom
 hash-based router and zero framework dependencies. Config-driven via `dashboard.config.js`;
-acceptance-tested with Robot Framework (navigation, views, sidebar suites). C++ SSH client
-handles hardware communication.
+acceptance-tested with Robot Framework (navigation, views, sidebar suites).
 
-**Stack:** `Vanilla JS` `Custom SPA Router` `C++` `Robot Framework`
+**Stack:** `Vanilla JS` `Custom SPA Router` `Robot Framework`
 
 ---
 
