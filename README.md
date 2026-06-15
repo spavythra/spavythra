@@ -107,6 +107,18 @@ and a Playwright visual regression suite. Live on Vercel.
 
 ---
 
+### 🏭 [Industrial SCADA Dashboard](https://github.com/spavythra/web_hmi)
+
+Web-based HMI for monitoring and managing connected industrial devices. Six-panel SPA —
+Config, Diagnostics, Trends, Alarms, Module Overview, and RAG Chat — built with a custom
+hash-based router and zero framework dependencies. Config-driven via `dashboard.config.js`;
+acceptance-tested with Robot Framework (navigation, views, sidebar suites). C++ SSH client
+handles hardware communication.
+
+**Stack:** `Vanilla JS` `Custom SPA Router` `C++` `Robot Framework`
+
+---
+
 ### ☁️ Serverless Cloud Infrastructure
 
 Built at Newelo Oy. Designed and deployed a cost-effective, secure serverless architecture
