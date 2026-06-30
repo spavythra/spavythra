@@ -1,12 +1,12 @@
 # Hi, I'm Pavithra Subramaniyam 👋
 
-**Full-Stack Developer | Cloud and DevOps | Based in Finland 🇫🇮**
+**Full-Stack Developer | Cloud & DevOps | Security-Aware Engineer | Based in Finland 🇫🇮**
 
-I build complete working software from data ingestion to cloud-deployed UIs.
-I have years of professional experience across software development and QA,
-with an MSc in Cloud-based Software Engineering from Vaasa University of Applied Sciences (2025).
+I build complete working software from data ingestion to cloud-deployed UIs, with a security-first mindset baked in from production AWS work, a thesis on secure serverless architecture, and hands-on cybersecurity training.
 
-Currently open to **Full-Stack Developer** and **Software Developer** roles, Onsite and Hybrid.
+MSc in Cloud-based Software Engineering from Vaasa University of Applied Sciences (2025). CyberStart certified. TryHackMe Cyber 101.
+
+Currently open to **Full-Stack Developer**, **Software Developer**, and **Cybersecurity / AppSec** roles, Onsite and Hybrid.
 Finnish work permit holder. No sponsorship required.
 
 ---
@@ -41,6 +41,20 @@ Finnish work permit holder. No sponsorship required.
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+**Security**
+
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/-IAM%20%26%20VPC-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+![CyberStart](https://img.shields.io/badge/-CyberStart%20Certified-1A1A2E?style=flat&logo=hackthebox&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+- **CyberStart** by Central Baltic / EU-funded Cybersecurity Programme (2026)
+- **Cyber 101** by TryHackMe, Introduction to Cybersecurity (In Progress)
 
 ---
 
@@ -78,7 +92,7 @@ for a seamless shopping experience.
 
 ### 🏡 [ClearNest](https://github.com/spavythra/ClearNest)
 
-Family household management app — Kanban task board, habit streak tracking, shared shopping
+Family household management app with Kanban task board, habit streak tracking, shared shopping
 list, meal planner, and inventory management with expiry alerts. Dual test layer: Jest unit
 tests + Robot Framework E2E acceptance tests covering auth, Kanban, and shopping flows.
 Real-time sync via Supabase, Google OAuth, deployed on Vercel.
@@ -96,7 +110,7 @@ to detect seizure patterns from video input, supporting clinical monitoring and 
 
 ---
 
-### 🌲 [DheeInvites — Event Invite Template](https://github.com/spavythra/DheeInvites)
+### 🌲 [DheeInvites](https://github.com/spavythra/DheeInvites)
 
 A zero-dependency, config-driven digital invite shipped as a single HTML file.
 Finnish midsummer forest theme with inline SVG artwork, CSS animation system,
@@ -109,8 +123,7 @@ and a Playwright visual regression suite. Live on Vercel.
 
 ### 🏭 [Industrial SCADA Dashboard](https://github.com/spavythra/web_hmi)
 
-Web-based HMI for monitoring and managing connected industrial devices. Six-panel SPA —
-Config, Diagnostics, Trends, Alarms, Module Overview, and RAG Chat — built with a custom
+Web-based HMI for monitoring and managing connected industrial devices. Six-panel SPA (Config, Diagnostics, Trends, Alarms, Module Overview, RAG Chat) built with a custom
 hash-based router and zero framework dependencies. Config-driven via `dashboard.config.js`;
 acceptance-tested with Robot Framework (navigation, views, sidebar suites).
 
@@ -118,12 +131,14 @@ acceptance-tested with Robot Framework (navigation, views, sidebar suites).
 
 ---
 
-### ☁️ Serverless Cloud Infrastructure
+### ☁️ Serverless Cloud Infrastructure (MSc Thesis)
 
-Built at Newelo Oy. Designed and deployed a cost-effective, secure serverless architecture
-on AWS using the Serverless Framework as an Infrastructure as Code (IaC) template for reusability on different application developement.
+Designed and deployed a secure, reusable serverless architecture on AWS for startup use cases.
+Implemented Cognito JWT authentication across all API routes, S3 bucket hardening with blocked
+public access, SSH-configured Linux EC2 inside a VPC, AWS Secrets Manager for credential
+storage, least-privilege IAM roles, and automated GitLab CI/CD pipeline deployment.
 
-**Stack:** `AWS Lambda` `DynamoDB` `API Gateway` `Serverless Framework` `VPC` `IaC` `Cognito` `IAM`
+**Stack:** `AWS Lambda` `DynamoDB` `API Gateway` `Cognito` `Secrets Manager` `VPC` `S3` `IAM` `Serverless Framework` `GitLab CI/CD`
 
 ---
 
